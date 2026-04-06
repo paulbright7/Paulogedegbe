@@ -1,4 +1,4 @@
-## Hi there, I'm Paul ogedegbe 👋
+# Hi there, I'm Akhere Paul ogedegbe 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
