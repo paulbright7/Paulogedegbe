@@ -14,19 +14,22 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data-driven professional passionate about turning customer data into meaningful insights that drives smarter business decisions.
-With a background in Mechanical Engineering (Production Engineering) and experience in Customer Service. 
+I turn customer data into decisions a team can act on.
 
-I understand both the operational and human side of business. I transitioned into Data Analytics to combine analytical thinking with real-world customer experience
+I started in mechanical engineering, then spent over three years in customer operations in fintech and telecom: loan recovery and outbound CRM at Blooms Microfinance Bank, and churn reduction and subscriber retention on MultiChoice’s GOtv account at Outcess Solutions. Working that close to customers taught me which questions matter before anyone opens a spreadsheet.
 
-When I'm not working with data, I enjoy watching football. I love the "aha!" moment when data reveals something new and useful.
+Now I answer those questions with data. I use SQL to query and aggregate tables, Excel to clean and model data, Power BI and DAX to build dashboards, and Python to analyse and visualise. I have run regression and time series analysis, checked datasets for duplicates and missing values, and presented findings in PowerPoint to non-technical audiences. My past roles as a maths teacher and a frozen food store manager also taught me to explain numbers simply and to track stock.
+
+My recent work includes a sneakers sales project (Excel cleaning, SQL Server aggregation and a Power BI dashboard), vendor research for the ChopBeta food marketplace, and volunteer work as a data analyst.
+
+I’m looking for a data analyst or business analyst role, remote or hybrid, in Lagos, or with an international team.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://paulbright7.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Customer Churn Analysis For Teleconnect Service (Excel and PowerBI)
+- **Project A:** Repayment Segmentation
 
   
 ## 🛠️ Technical Skillset
@@ -44,7 +47,7 @@ When I'm not working with data, I enjoy watching football. I love the "aha!" mom
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   
 </p>
 
